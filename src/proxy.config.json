@@ -1,0 +1,6 @@
+{
+    "/eStories/*": {
+      "target": "https://hn.algolia.com/api/v1",
+      "secure": false
+    }
+  }
